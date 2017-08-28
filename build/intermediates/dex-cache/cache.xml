@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/transforms/AppDynamics/debug/jars/1/10/d43fa540b9e4fc2867c1a346f75298d131da2a39.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f47cfb60842c1ff33323b8c87239ae26ffcf92b">
+        <dex dex="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/pre-dexed/debug/d43fa540b9e4fc2867c1a346f75298d131da2a39_18027f12992cf4d7699293a89a6e2b871c2608e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/transforms/AppDynamics/debug/jars/1/10/5aef847ee255cc104d4ce287bf6c137b6c56a1c9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="956a1e512e919bbdf1f3a6ec5bb2f8b3e22f02d4">
+        <dex dex="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/pre-dexed/debug/5aef847ee255cc104d4ce287bf6c137b6c56a1c9_4135cf4626983d78dce563acc70e2b0fb51f63b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/transforms/AppDynamics/debug/jars/1/10/3b73b5723c4e965acbb23f271cf049c27a8b8634.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="197f381f973b5a890acce87ff495c6c9862d8803">
+        <dex dex="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/pre-dexed/debug/3b73b5723c4e965acbb23f271cf049c27a8b8634_25d360efb9061a2c9fadf89728bca0250b3b8469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/transforms/AppDynamics/debug/jars/1/10/ac96ab6ebdaad3e1b94f1611a4775fd685a1874e.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5e92c0dd2c30dae56638ecc303657c667b4ab50a">
+        <dex dex="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/pre-dexed/debug/ac96ab6ebdaad3e1b94f1611a4775fd685a1874e_3a19f6e14605362be8295be1ca03c7b3164f4943.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/transforms/AppDynamics/debug/jars/1/10/ebc955236bcfa0cfa1f9c35a873222e162e1545a.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="419198ac951ee0a66f21d5816cfc5ee101ed0642">
+        <dex dex="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/pre-dexed/debug/ebc955236bcfa0cfa1f9c35a873222e162e1545a_026b1117c138c9b813961583bb573a07b3b05921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/transforms/AppDynamics/debug/jars/1/10/521f74704fad1783a27cf7ef6dc0bd4aa2aa6cdb.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b80fa6a3f79bb0fe5cadb5befc29f4f74e6fc174">
+        <dex dex="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/pre-dexed/debug/521f74704fad1783a27cf7ef6dc0bd4aa2aa6cdb_ce35978b56f784ec1ad140aa58e4432bd0134a31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/transforms/AppDynamics/debug/jars/1/10/9f57018f69527b75a7f8a6fa7b4807c80dc23306.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="330b3c9a98dd36792c33a043693b0bf49372b0ae">
+        <dex dex="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/pre-dexed/debug/9f57018f69527b75a7f8a6fa7b4807c80dc23306_6cfffff841a321b3f11c44e985f4e89d26b57aa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/transforms/AppDynamics/debug/jars/1/10/8e745ca75887cdf07c4c4e083d912de11ec2cfe7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="52faf709e7d1d6fdf59a98ddf8e4806446d6538c">
+        <dex dex="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/pre-dexed/debug/8e745ca75887cdf07c4c4e083d912de11ec2cfe7_1a08daba36bc6ff283381be7392df593fcd5cece.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/transforms/AppDynamics/debug/jars/1/10/9ca471a373aac313e946eb0e45acc8f96ea39555.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efde63a29da3832b438b31142d36159f13b38289">
+        <dex dex="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/pre-dexed/debug/9ca471a373aac313e946eb0e45acc8f96ea39555_afc3e77a6680953cfbd83d95b4c9c4d4284cb948.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/transforms/AppDynamics/debug/jars/1/10/37fbebcc1d5c6dd4f049ef116cbfb1da5f760c07.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c413dc11800b1a6adab7cc34798a4cf16a140383">
+        <dex dex="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/pre-dexed/debug/37fbebcc1d5c6dd4f049ef116cbfb1da5f760c07_e26adfdd50a21f1f57d46522533941169d205a69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/transforms/AppDynamics/debug/jars/1/10/eca0c9dd04b55ab3339b54fcb20da7b13c0f61f7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ff0f713b7d7a20b544a48033cb2aa5651701d0f2">
+        <dex dex="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/pre-dexed/debug/eca0c9dd04b55ab3339b54fcb20da7b13c0f61f7_9a9b4655154d5ccf983301ec1fa296fe3e678175.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/transforms/AppDynamics/debug/jars/1/10/e71d4bf7e37d9caefbc972f1a1ca092f872552fa.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b68b209d9867a8af61b2e48b68838bc15393817b">
+        <dex dex="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/pre-dexed/debug/e71d4bf7e37d9caefbc972f1a1ca092f872552fa_2d1524f82aa8fe85f5ac46754b43f5196bf49368.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/transforms/AppDynamics/debug/jars/1/10/e78dfd646c8b77bb059223a4aac045e06cf8e0a2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="092869fd0cd82096d264381c83c115124cec4da3">
+        <dex dex="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/pre-dexed/debug/e78dfd646c8b77bb059223a4aac045e06cf8e0a2_76dcd54c5c1d5683891e1150f431d5e7ba7bf150.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/transforms/AppDynamics/debug/jars/1/10/12e247641bf13208e07e6090272cd0c74a931912.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8081851ccd0d3c65d94bda1805d82e73a01b8222">
+        <dex dex="/Users/kevin.brunette/AndroidWorkSpace/FireTVTestApp-master/tv/build/intermediates/pre-dexed/debug/12e247641bf13208e07e6090272cd0c74a931912_109ba4d663c2bc6168f67550ace5816f1c98843d.jar" />
+    </item>
+
+</items>
